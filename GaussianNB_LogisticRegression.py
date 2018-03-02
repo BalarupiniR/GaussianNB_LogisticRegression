@@ -1,3 +1,11 @@
+############################################################
+# Project on Gaussian Naive Bayes and Logistic Regression
+# Author: Balarupini
+#
+#
+# Date: 02/22/2018
+############################################################
+
 import numpy as np
 import random
 import math
